@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #00a8ff;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+
+.imgandtext{
+    display: flex;
+}
+img{
+    width: 70px;
+    height: 70px;
+}
+
+h2{
+    font-size: 50px;
+}
+h3{
+    font-size: 30px;
+}
+input{
+    width: 200px;
+    height: 60px;
+    border: none;
+    outline: none;
+    text-align: center;
+    border-radius: 99px;
+
+}
